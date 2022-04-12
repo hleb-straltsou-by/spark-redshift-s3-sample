@@ -19,7 +19,7 @@
     <spark.avro.version>3.1.0</spark.avro.version>
     <aws.sdk.version>1.11.271</aws.sdk.version>
     <aws.hadoop.version>3.1.1</aws.hadoop.version>
-    <hadoop.version>3.1.1</hadoop.version>
+    <hadoop.version>3.2.3</hadoop.version>
 
     <!-- Plugin configuration -->
     <maven.scala.plugin.version>3.3.2</maven.scala.plugin.version>
