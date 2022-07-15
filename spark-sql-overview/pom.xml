@@ -17,7 +17,7 @@
     <scalatest.version>3.0.5</scalatest.version>
     <spark.redshift.version>3.0.0-preview1</spark.redshift.version>
     <spark.avro.version>3.1.0</spark.avro.version>
-    <aws.sdk.version>1.11.271</aws.sdk.version>
+    <aws.sdk.version>1.12.261</aws.sdk.version>
     <aws.hadoop.version>3.1.1</aws.hadoop.version>
     <hadoop.version>3.1.1</hadoop.version>
 
